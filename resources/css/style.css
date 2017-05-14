@@ -39,7 +39,7 @@ h3,
 #top-section-footer {
   color: white;
   background-image: url("../the-flatiron-building.png");
-  background-position: center;
+  background-position: center; /* added background-position to keep image in view no matter the window width */
 }
 
 #footer {
