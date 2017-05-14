@@ -9,11 +9,11 @@ h1 {
   color: white;
 }
 
-nav {
+.navigation {
   font-size: 18px;
   font-weight: normal;
 }
-nav a {
+.navigation a {
   color: white
 }
 
@@ -41,4 +41,5 @@ h4 {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
 }
