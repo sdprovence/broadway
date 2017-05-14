@@ -9,37 +9,40 @@ h1 {
   color: white;
 }
 
-.navigation {
-  font-size: 18px;
-  font-weight: normal;
-}
-.navigation a {
-  color: white
-}
-
-.home {
-  background-image: url("../the-flatiron-building.png");
-  background-position: center;
-}
-
 h2 {
   font-size: 32px;
   font-weight: bold;
 }
 
 h3,
-h4 {
+#top-section-footer {
   font-size: 23px;
   font-weight: bold;
 }
 
-h4 {
+.navigation {
+  font-size: 18px;
+  font-weight: normal;
+}
+
+/* NOTE: Make all navigation links the same color */
+.navigation a {
+  color: white
+}
+
+/* Home class to define the look of top of page */
+.home {
+  background-image: url("../the-flatiron-building.png");
+  background-position: center; /* added background-position to keep image in view no matter the window width */
+}
+
+#top-section-footer {
   color: white;
   background-image: url("../the-flatiron-building.png");
   background-position: center;
 }
 
-.footer {
+#footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
