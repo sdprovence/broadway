@@ -36,3 +36,9 @@ h4 {
   color: white;
   background-image: url("../the-flatiron-building.png");
 }
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
