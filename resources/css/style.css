@@ -16,7 +16,7 @@ nav {
 }
 
 .home {
-  background-image: url("./resources/the-flatiron-building.png");
+  background-image: url("../the-flatiron-building.png");
 }
 
 h2 {
@@ -32,5 +32,5 @@ h4 {
 
 h4 {
   color: white;
-  background-image: url("./resources/the-flatiron-building.png");
+  background-image: url("../the-flatiron-building.png");
 }
