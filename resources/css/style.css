@@ -19,6 +19,7 @@ h1 {
 
 .home {
   background-image: url("../the-flatiron-building.png");
+  background-position: center;
 }
 
 h2 {
@@ -35,6 +36,7 @@ h4 {
 h4 {
   color: white;
   background-image: url("../the-flatiron-building.png");
+  background-position: center;
 }
 
 .footer {
