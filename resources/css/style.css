@@ -10,9 +10,11 @@ h1 {
 }
 
 nav {
-  font-size: 32px;
+  font-size: 18px;
   font-weight: normal;
-  color: white;
+}
+nav a {
+  color: white
 }
 
 .home {
